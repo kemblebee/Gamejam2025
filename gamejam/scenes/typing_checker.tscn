@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=3 uid="uid://5p2f6f4rejgg"]
+
+[ext_resource type="Script" uid="uid://cwf6jjt3rdyi3" path="res://scripts/typinggame.gd" id="1_jk2hg"]
+
+[node name="TypingChecker" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_jk2hg")
+
+[node name="DisplayLabel" type="Label" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="WriteLabel" type="Label" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0

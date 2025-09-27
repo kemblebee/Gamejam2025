@@ -1,0 +1,40 @@
+[gd_scene load_steps=3 format=3 uid="uid://cclejnc03pwxf"]
+
+[ext_resource type="Script" uid="uid://comvf7d7obikj" path="res://scripts/minigame_timer.gd" id="1_njsp4"]
+[ext_resource type="PackedScene" uid="uid://dc0ea3g6y5xbo" path="res://scenes/test_scene.tscn" id="2_04sqp"]
+
+[node name="MinigameTimer" type="Node"]
+script = ExtResource("1_njsp4")
+
+[node name="Node" parent="." instance=ExtResource("2_04sqp")]
+
+[node name="Timer" type="Timer" parent="."]
+autostart = true
+
+[node name="ProgressBar" type="ProgressBar" parent="."]
+offset_left = 51.0
+offset_top = 15.0
+offset_right = 76.0
+offset_bottom = 195.0
+max_value = 120.0
+value = 120.0
+fill_mode = 3
+show_percentage = false
+
+[node name="AffBar" type="ProgressBar" parent="."]
+offset_left = 98.0
+offset_top = 11.0
+offset_right = 123.0
+offset_bottom = 191.0
+fill_mode = 3
+show_percentage = false
+
+[node name="TimeBar" type="TextureProgressBar" parent="."]
+offset_left = 171.0
+offset_top = 56.0
+offset_right = 211.0
+offset_bottom = 96.0
+max_value = 120.0
+
+[connection signal="test_sig" from="Node" to="." method="_on_node_test_sig"]
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]

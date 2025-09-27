@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3 uid="uid://dc0ea3g6y5xbo"]
+
+[ext_resource type="Script" uid="uid://b62eaf31jylle" path="res://scripts/test.gd" id="1_g7g4h"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_g7g4h")
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 3.0
+autostart = true
+
+[node name="Label" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+text = "0"
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
