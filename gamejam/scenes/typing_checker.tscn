@@ -5,16 +5,49 @@
 [node name="TypingChecker" type="Control"]
 layout_mode = 3
 anchors_preset = 0
-offset_right = 40.0
-offset_bottom = 40.0
+offset_left = 564.0
+offset_top = 277.0
+offset_right = 674.0
+offset_bottom = 378.0
+scale = Vector2(4.95, 4.95)
 script = ExtResource("1_jk2hg")
 
 [node name="DisplayLabel" type="Label" parent="."]
 layout_mode = 0
 offset_right = 40.0
 offset_bottom = 23.0
+text = "Bibidiboppity"
 
 [node name="WriteLabel" type="Label" parent="."]
+visible = false
 layout_mode = 0
 offset_right = 40.0
 offset_bottom = 23.0
+
+[node name="WriteText" type="LineEdit" parent="."]
+layout_mode = 0
+offset_left = 3.0
+offset_top = 52.0
+offset_right = 71.5625
+offset_bottom = 83.0
+theme_override_constants/outline_size = 3
+placeholder_text = "TEXT"
+alignment = 1
+expand_to_text_length = true
+context_menu_enabled = false
+emoji_menu_enabled = false
+virtual_keyboard_enabled = false
+virtual_keyboard_show_on_focus = false
+shortcut_keys_enabled = false
+middle_mouse_paste_enabled = false
+selecting_enabled = false
+deselect_on_focus_loss_enabled = false
+drag_and_drop_selection_enabled = false
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[connection signal="text_changed" from="WriteText" to="." method="_on_line_edit_text_changed"]
+[connection signal="text_submitted" from="WriteText" to="." method="_on_line_edit_text_submitted"]
