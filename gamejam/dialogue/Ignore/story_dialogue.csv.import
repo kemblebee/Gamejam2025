@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://lhfmc0ixeu51"
+
+[deps]
+
+files=["res://dialogue/Ignore/story_dialogue.talk.translation", "res://dialogue/Ignore/story_dialogue.talk.translation", "res://dialogue/Ignore/story_dialogue.dialogue.translation"]
+
+source_file="res://dialogue/Ignore/story_dialogue.csv"
+dest_files=["res://dialogue/Ignore/story_dialogue.talk.translation", "res://dialogue/Ignore/story_dialogue.talk.translation", "res://dialogue/Ignore/story_dialogue.dialogue.translation"]
+
+[params]
+
+compress=true
+delimiter=0

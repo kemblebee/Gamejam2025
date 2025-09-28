@@ -1,0 +1,620 @@
+[
+  {
+    "scene": 0,
+    "talk_id": 0,
+    "talk_person": "Narrator",
+    "dialogue": "You’re not sure what to call yourself honestly."
+  },
+  {
+    "scene": 0,
+    "talk_id": 1,
+    "talk_person": "Narrator",
+    "dialogue": "A time traveler, an immortal being, a soul stuck in the cycle of Samsara that remembers every single lifetime–you’ve stopped trying to classify yourself after a while. "
+  },
+  {
+    "scene": 0,
+    "talk_id": 2,
+    "talk_person": "Narrator",
+    "dialogue": "But what you do know is Moira, the woman you fell in love with all those lifetimes ago."
+  },
+  {
+    "scene": 0,
+    "talk_id": 3,
+    "talk_person": "Narrator",
+    "dialogue": "Her beautiful smile and the bell chime tone of her voice. In a way she’s like you, timeless and transient except…"
+  },
+  {
+    "scene": 0,
+    "talk_id": 4,
+    "talk_person": "Narrator",
+    "dialogue": "She doesn’t remember you."
+  },
+  {
+    "scene": 0,
+    "talk_id": 5,
+    "talk_person": "Narrator",
+    "dialogue": "It’s not every lifetime Moira appears, and the lives she doesn’t blur together into a jumbled mess until you hit a pocket of striking clarity."
+  },
+  {
+    "scene": 0,
+    "talk_id": 6,
+    "talk_person": "Narrator",
+    "dialogue": "You find her in the luncheons and garden parties of the countryside gentry, mingling with the regency elite."
+  },
+  {
+    "scene": 0,
+    "talk_id": 7,
+    "talk_person": "Narrator",
+    "dialogue": "She catches your gaze, but like water in your hands she looks away as if you were invisible and you know exactly why."
+  },
+  {
+    "scene": 0,
+    "talk_id": 8,
+    "talk_person": "Narrator",
+    "dialogue": "Because you are, at least not literally. "
+  },
+  {
+    "scene": 0,
+    "talk_id": 9,
+    "talk_person": "Narrator",
+    "dialogue": "Working as a commoner means being relegated to the background of the lives of the wealthy, socially you have no chance with her. "
+  },
+  {
+    "scene": 0,
+    "talk_id": 10,
+    "talk_person": "Narrator",
+    "dialogue": "Of course you don’t care too much about the fuss and constraints of Regency society, not when it comes to being with her. "
+  },
+  {
+    "scene": 0,
+    "talk_id": 11,
+    "talk_person": "Narrator",
+    "dialogue": "So when Moira excuses herself to wander the rose garden you follow, determined to introduce yourself (again, like you’ve done countless times before). "
+  },
+  {
+    "scene": 0,
+    "talk_id": 12,
+    "talk_person": "You",
+    "dialogue": "“Pardon me ma’am.”"
+  },
+  {
+    "scene": 0,
+    "talk_id": 13,
+    "talk_person": "Moira",
+    "dialogue": "“Hm? Can I help you?”"
+  },
+  {
+    "scene": 0,
+    "talk_id": 14,
+    "talk_person": "Narrator",
+    "dialogue": "Now’s your chance."
+  },
+  {
+    "scene": 1,
+    "talk_id": 0,
+    "talk_person": "Narrator",
+    "dialogue": "You managed to strike up a good conversation with Moira, even managing to win one of her dazzling smiles in the process. "
+  },
+  {
+    "scene": 1,
+    "talk_id": 1,
+    "talk_person": "Narrator",
+    "dialogue": "Despite your differences in status she seems interested in you, though that spark of recognition you always hope she’ll one day have is not present. "
+  },
+  {
+    "scene": 1,
+    "talk_id": 2,
+    "talk_person": "Narrator",
+    "dialogue": "But that’s okay, you can take solace in knowing that at least in this brief lifetime you’re together. "
+  },
+  {
+    "scene": 1,
+    "talk_id": 3,
+    "talk_person": "Narrator",
+    "dialogue": "Or at least you think so, living all these lifetimes has taught you many things; the biggest lesson of all being that time is fleeting."
+  },
+  {
+    "scene": 1,
+    "talk_id": 4,
+    "talk_person": "Narrator",
+    "dialogue": "All that you hold dear can be gone within a blink of an eye as time warps and stretches on in an endless march you’re forced to participate in."
+  },
+  {
+    "scene": 1,
+    "talk_id": 5,
+    "talk_person": "Narrator",
+    "dialogue": "You can’t even remember what happened after your chat in the garden as the world goes dark."
+  },
+  {
+    "scene": 2,
+    "talk_id": 0,
+    "talk_person": "Narrator",
+    "dialogue": "You reach a hand up to shield your nose from the smog of the city, the moon full yet outshone by the myriad blinking lights advertising each storefront."
+  },
+  {
+    "scene": 2,
+    "talk_id": 1,
+    "talk_person": "Narrator",
+    "dialogue": "People pass by you in the street adorned in pinstripe suits and feathered boas as nightlife goes into full swing."
+  },
+  {
+    "scene": 2,
+    "talk_id": 2,
+    "talk_person": "Narrator",
+    "dialogue": "It’s the roaring 20s they say, and life has never been more exciting as the world dances on the cusp of modernity. "
+  },
+  {
+    "scene": 2,
+    "talk_id": 3,
+    "talk_person": "Narrator",
+    "dialogue": "Of course you’re not focused on things like the economy or what jazz singer was playing at what club as you duck into an unassuming doorway and emerge into a lavish speakeasy."
+  },
+  {
+    "scene": 2,
+    "talk_id": 4,
+    "talk_person": "Narrator",
+    "dialogue": "You’re focused on the woman sitting alone at the bar, tapping her feet to the music as she notices your gaze and smiles. "
+  },
+  {
+    "scene": 2,
+    "talk_id": 5,
+    "talk_person": "Narrator",
+    "dialogue": "Moira eagerly ushers you closer, and you mirror her own excitement as you sit at a stool, ready for your second date. You may have won her over on the first, but you can’t rest on your laurels just yet. "
+  },
+  {
+    "scene": 2,
+    "talk_id": 6,
+    "talk_person": "Narrator",
+    "dialogue": "It’s your time to shine."
+  },
+  {
+    "scene": 3,
+    "talk_id": 0,
+    "talk_person": "Narrator",
+    "dialogue": "You spend the night chattering away and sipping on giggle water, warmth blooming in your heart partly from the alcohol and mostly from the way her eyes light up at the sound of the band on stage playing her favorite song. "
+  },
+  {
+    "scene": 3,
+    "talk_id": 1,
+    "talk_person": "Moira",
+    "dialogue": "“Come on! We’ve been sitting for too long anyways!”"
+  },
+  {
+    "scene": 3,
+    "talk_id": 2,
+    "talk_person": "Narrator",
+    "dialogue": "Her hand is soft in yours as she pulls you into the undulating crowd of flappers and swingers, the sequins on her dress blinding as the spotlight above shines down on her. "
+  },
+  {
+    "scene": 3,
+    "talk_id": 3,
+    "talk_person": "Narrator",
+    "dialogue": "The trumpets cry and the drums beat in tune with your heart as Moira begins to dance, and soon enough you join her despite your footsteps not being as graceful as hers. "
+  },
+  {
+    "scene": 3,
+    "talk_id": 4,
+    "talk_person": "Narrator",
+    "dialogue": "You don’t want this night to end, but it does as you choose to spin, expecting to see her still dancing alongside you only to find the crowd surging in. "
+  },
+  {
+    "scene": 3,
+    "talk_id": 5,
+    "talk_person": "Narrator",
+    "dialogue": "The colors and movement are disorienting as you desperately search for her, but she’s gone, swallowed by the crowd."
+  },
+  {
+    "scene": 3,
+    "talk_id": 6,
+    "talk_person": "Narrator",
+    "dialogue": "And so are you as everything blurs into one unending dance, the music screaming a final goodbye as the world goes dark. "
+  },
+  {
+    "scene": 4,
+    "talk_id": 0,
+    "talk_person": "Narrator",
+    "dialogue": "Your back aches as you trudge up the stairway and reach a landing, the fluorescent light droning as you walk past identical rows of doors with chipped paint and the occasional unwelcoming welcome mat sitting in front of them. "
+  },
+  {
+    "scene": 4,
+    "talk_id": 1,
+    "talk_person": "Narrator",
+    "dialogue": "The keys jingle in your hand as you slot one into the doorknob and twist, revealing the small apartment you live in. Overpriced and just shy of being dingy, but it’s home for this lifetime. "
+  },
+  {
+    "scene": 4,
+    "talk_id": 2,
+    "talk_person": "Narrator",
+    "dialogue": "It wouldn’t be home if it weren’t for the woman hunched over her desk, an expression on the cusp of exasperated as she types out a line of code. "
+  },
+  {
+    "scene": 4,
+    "talk_id": 3,
+    "talk_person": "Narrator",
+    "dialogue": "Moira’s a programmer this life, which means days filled with computer screens and bug fixing and takeout boxes left out on the counter. "
+  },
+  {
+    "scene": 4,
+    "talk_id": 4,
+    "talk_person": "Narrator",
+    "dialogue": "Despite it being the longest you and her have been together since the very first time you met, it feels like the least amount of time you have spent with her as both your schedules turn you into ships in the night. "
+  },
+  {
+    "scene": 4,
+    "talk_id": 5,
+    "talk_person": "Narrator",
+    "dialogue": "But you make it work, cherishing every moment you have with her (and wishing Moira remembered them all too). "
+  },
+  {
+    "scene": 4,
+    "talk_id": 6,
+    "talk_person": "Narrator",
+    "dialogue": "At the frustrated noise she makes at her computer you set your stuff down, a sympathetic smile on your face as you reach her desk. "
+  },
+  {
+    "scene": 4,
+    "talk_id": 7,
+    "talk_person": "You",
+    "dialogue": "“Wanna talk about it?”"
+  },
+  {
+    "scene": 5,
+    "talk_id": 0,
+    "talk_person": "Narrator",
+    "dialogue": "With you acting as her rubber duck Moira manages to untangle the lines of code and isolate the issue with a triumphant smile just as you finish ordering a celebratory dinner on your phone."
+  },
+  {
+    "scene": 5,
+    "talk_id": 1,
+    "talk_person": "Narrator",
+    "dialogue": "This was the last part of her big project done, you figure it deserves some fanfare in the form of her favorite meal. "
+  },
+  {
+    "scene": 5,
+    "talk_id": 2,
+    "talk_person": "Moira",
+    "dialogue": "“Whew. I’m beat, what do you think of watching a movie marathon tonight?”"
+  },
+  {
+    "scene": 5,
+    "talk_id": 3,
+    "talk_person": "Narrator",
+    "dialogue": "You give her a grin and a nod of affirmation, moving towards your usual spot on the couch while she takes up hers by your side. Moira clicks through the channels until she settles on one and gets comfortable."
+  },
+  {
+    "scene": 5,
+    "talk_id": 4,
+    "talk_person": "Narrator",
+    "dialogue": "You get comfortable too, and despite this movie not being one of your favorites you’re content to zone out to the sounds and colors on the screen. "
+  },
+  {
+    "scene": 5,
+    "talk_id": 5,
+    "talk_person": "Narrator",
+    "dialogue": "This is the closest you’ve gotten to feeling truly at peace you think, and the soft ache in your chest that’s constantly there is almost unnoticeable. "
+  },
+  {
+    "scene": 5,
+    "talk_id": 6,
+    "talk_person": "Narrator",
+    "dialogue": "Almost, as you still lament the fact that this was the first lifetime you’ve admitted to her what’s been going on and she didn’t believe you, laughing it off as some “crazy lucid dream”. "
+  },
+  {
+    "scene": 5,
+    "talk_id": 7,
+    "talk_person": "Narrator",
+    "dialogue": "Sometimes you wish it was just a dream, but the weight of centuries still hangs heavy on your shoulders, the memories of Moira throughout the years still as clear as the day you experienced them. "
+  },
+  {
+    "scene": 5,
+    "talk_id": 8,
+    "talk_person": "Narrator",
+    "dialogue": "You wonder if this ever has an end as your vision begins to blur, the shapes of your apartment blending into one amorphous mass as the world goes dark. "
+  },
+  {
+    "scene": 6,
+    "talk_id": 0,
+    "talk_person": "Moira",
+    "dialogue": "“ –hey, Hey!” "
+  },
+  {
+    "scene": 6,
+    "talk_id": 1,
+    "talk_person": "Narrator",
+    "dialogue": "Her voice ricochets you back into focus as you blink away the darkness, but the darkness never leaves. Confusion spreads through your mind, hadn’t you just been in a rose garden, a dancefloor, an apartment–"
+  },
+  {
+    "scene": 6,
+    "talk_id": 2,
+    "talk_person": "Narrator",
+    "dialogue": "You blink one final blink, and then you realize where you are. "
+  },
+  {
+    "scene": 6,
+    "talk_id": 3,
+    "talk_person": "Narrator",
+    "dialogue": "You’re nowhere, you’re everywhere, you’re at the beginning of time."
+  },
+  {
+    "scene": 6,
+    "talk_id": 4,
+    "talk_person": "Narrator",
+    "dialogue": "You’re at the end of time, you’ve followed Moira all the way through the years until you reached now. Ad infinitum, except there is an end and you’ve just reached it and without realizing…dragged her here with you too. "
+  },
+  {
+    "scene": 6,
+    "talk_id": 5,
+    "talk_person": "Narrator",
+    "dialogue": "She gives you a look, a look that means there’s a thousand questions in her mind. But you find that any words to try to explain all of this fall short. "
+  },
+  {
+    "scene": 6,
+    "talk_id": 6,
+    "talk_person": "Narrator",
+    "dialogue": "You want to tell her you’re sorry, you don’t know why this has happened, you think despite it all she still looks as beautiful as the day you met. "
+  },
+  {
+    "scene": 6,
+    "talk_id": 7,
+    "talk_person": "Narrator",
+    "dialogue": "There is one thing you manage to croak out, the single most desperate plea you’ve held so deep within your soul you think it’s now just as much a part of you as Moira is. "
+  },
+  {
+    "scene": 6,
+    "talk_id": 8,
+    "talk_person": "You",
+    "dialogue": "“Please tell me you remember me.”"
+  },
+  {
+    "scene": 6,
+    "talk_id": 9,
+    "talk_person": "Narrator",
+    "dialogue": "She looks at you incredulously, opening her mouth to no doubt say What the hell do you mean? Before something within her just clicks. "
+  },
+  {
+    "scene": 6,
+    "talk_id": 10,
+    "talk_person": "Narrator",
+    "dialogue": "You watch as her eyes widen, watch as the years, decades, millenia zip through her mind. "
+  },
+  {
+    "scene": 6,
+    "talk_id": 11,
+    "talk_person": "Narrator",
+    "dialogue": "Then you hear her say that two word statement you’ve only dreamed of her ever uttering."
+  },
+  {
+    "scene": 6,
+    "talk_id": 12,
+    "talk_person": "Moira",
+    "dialogue": "“I do.”"
+  },
+  {
+    "scene": 6,
+    "talk_id": 13,
+    "talk_person": "Narrator",
+    "dialogue": "It’s not the happy revelation you thought it would be, it’s not the triumphant culmination of your expansive lifetimes. Not here, not in this void where time and space lose all meaning. "
+  },
+  {
+    "scene": 6,
+    "talk_id": 14,
+    "talk_person": "Narrator",
+    "dialogue": "But still Moira embraces you, still you wrap your arms around her in return. "
+  },
+  {
+    "scene": 6,
+    "talk_id": 15,
+    "talk_person": "Narrator",
+    "dialogue": "You think about what happens next and at first your mind goes to catching up for lost time, to talking about that afternoon in the garden or to the sound of the jazz band or to the millions of shared memories you both now carry in your hearts. "
+  },
+  {
+    "scene": 6,
+    "talk_id": 16,
+    "talk_person": "Narrator",
+    "dialogue": "You think of spending eternity here, just with her. No more time to warp your perception and steal her away, no more lives of searching and restarting and rebuilding your relationship because she’s here now."
+  },
+  {
+    "scene": 6,
+    "talk_id": 17,
+    "talk_person": "Moira",
+    "dialogue": "“What do we do now?”"
+  },
+  {
+    "scene": 6,
+    "talk_id": 18,
+    "talk_person": "Us",
+    "dialogue": "“...You wanna just, talk?”"
+  },
+  {
+    "scene": 7,
+    "talk_id": 0,
+    "talk_person": "Narrator",
+    "dialogue": "You could tell that something was wrong the moment you two began your conversation. But when Moira looks into your eyes you feel your heart sink."
+  },
+  {
+    "scene": 7,
+    "talk_id": 1,
+    "talk_person": "Narrator",
+    "dialogue": "Those vibrant eyes, eyes that had once been full of life that drew you in like a moth to flame were dull, world weary and heavy with the knowledge of countless lifetimes."
+  },
+  {
+    "scene": 7,
+    "talk_id": 2,
+    "talk_person": "Narrator",
+    "dialogue": "They mirror your very own."
+  },
+  {
+    "scene": 7,
+    "talk_id": 3,
+    "talk_person": "Narrator",
+    "dialogue": "This…isn’t a life, and you realize that in your eternal chase and constant yearning for her to be like you, you’ve dragged her through time and space without her say. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 4,
+    "talk_person": "Narrator",
+    "dialogue": "Moira remembers you, that’s all you ever wanted but in turn she remembers everything. That’s not something a human mind is ever able to just handle all at once. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 5,
+    "talk_person": "Narrator",
+    "dialogue": "You’ve had countless lifetimes to acclimate to it, she’s only had now. Now that is just the void and you, nothing else to do and no things to distract from eternity. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 6,
+    "talk_person": "Narrator",
+    "dialogue": "Maybe you two could figure out a way to restart, to go through life again except this time do it together. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 7,
+    "talk_person": "Narrator",
+    "dialogue": "…But is it even fair to keep her in such a cycle? Or is your own selfish desire, your refusal to let this end, is what you want blinding you to what’s best for her?   "
+  },
+  {
+    "scene": 7,
+    "talk_id": 8,
+    "talk_person": "Narrator",
+    "dialogue": "What was that old saying, If you truly love something, you have to learn to let go? You don’t know everything despite your long existence, but you do know one thing."
+  },
+  {
+    "scene": 7,
+    "talk_id": 9,
+    "talk_person": "Narrator",
+    "dialogue": "You love her more than anything."
+  },
+  {
+    "scene": 7,
+    "talk_id": 10,
+    "talk_person": "You",
+    "dialogue": "“I’m sorry, but this isn’t fair to you.”"
+  },
+  {
+    "scene": 7,
+    "talk_id": 11,
+    "talk_person": "You",
+    "dialogue": "“I think…we have to say goodbye.”"
+  },
+  {
+    "scene": 7,
+    "talk_id": 12,
+    "talk_person": "You",
+    "dialogue": "“I think…I have to let you go.”"
+  },
+  {
+    "scene": 7,
+    "talk_id": 13,
+    "talk_person": "Narrator",
+    "dialogue": "Moira blinks, as if expecting something else as she stays quiet, and you let the void fill the nothingness around you until she finally nods. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 14,
+    "talk_person": "Moira",
+    "dialogue": "“If I leave, does that mean I’ll finally get to rest? No more time stuff, no more feeling like my head’s gonna explode with all these memories?” "
+  },
+  {
+    "scene": 7,
+    "talk_id": 15,
+    "talk_person": "Narrator",
+    "dialogue": "You’re not really sure what will happen honestly, but you feel it in the void around you. Something tells you that her theory might be right. So you nod. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 16,
+    "talk_person": "Narrator",
+    "dialogue": "There’s another long beat of silence before she gives you her answer, and it’s an answer that just a lifetime ago would have filled you with unimaginable dread, but now there’s only calm acceptance. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 17,
+    "talk_person": "Moira",
+    "dialogue": "“Okay…okay.”"
+  },
+  {
+    "scene": 7,
+    "talk_id": 18,
+    "talk_person": "Narrator",
+    "dialogue": "She gives you a watery smile, and you try and fail to give one back as she steps away before pausing. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 19,
+    "talk_person": "Moira",
+    "dialogue": "“You know…for what it’s worth, I had a lot of fun being with you.” "
+  },
+  {
+    "scene": 7,
+    "talk_id": 20,
+    "talk_person": "Narrator",
+    "dialogue": "One moment she’s a million miles away and the next she’s right in front of you; her lips soft as she kisses you one final time."
+  },
+  {
+    "scene": 7,
+    "talk_id": 21,
+    "talk_person": "Narrator",
+    "dialogue": "You kiss her back, putting every year and lifetime behind it until you feel her consciousness, her being, all of her start to slip away, a whisper echoing through the void. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 22,
+    "talk_person": "Moira",
+    "dialogue": "“I love you.”"
+  },
+  {
+    "scene": 7,
+    "talk_id": 23,
+    "talk_person": "Narrator",
+    "dialogue": "You whisper it back, despite nothing but the emptiness remaining. Leaving you alone, for good. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 24,
+    "talk_person": "Narrator",
+    "dialogue": "But you can’t stop thinking about her words, about how Moira said she had fun being with you, and you think back on all those lifetimes not with the lens of yearning isolation but…of fun. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 25,
+    "talk_person": "Narrator",
+    "dialogue": "You were so blinded with the lamentations of her not remembering you that you overlooked the fact that you had lifetimes with her, lifetimes that nobody else ever gets with their loved ones. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 26,
+    "talk_person": "Narrator",
+    "dialogue": "Lives that you spent finding her, talking to her, falling in love all over with her again and again and again. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 27,
+    "talk_person": "Narrator",
+    "dialogue": "Isn’t that worth it all? Isn’t that what’s worth holding onto? You let Moira go, but the memories are still there. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 28,
+    "talk_person": "Narrator",
+    "dialogue": "The memories are still warm in your heart as you realize that letting go of her means you can let go of this constant cycle too, no longer afraid of it ending. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 29,
+    "talk_person": "Narrator",
+    "dialogue": "You can rest like she did, not because she’s gone now but because you accept that you’ve lived so many lives, you’ve done almost everything but rest. "
+  },
+  {
+    "scene": 7,
+    "talk_id": 30,
+    "talk_person": "Narrator",
+    "dialogue": "Maybe it’s time. It’s time to say goodbye. It’s time for this neverending story to finally end."
+  },
+  {
+    "scene": 7,
+    "talk_id": 31,
+    "talk_person": "Narrator",
+    "dialogue": "You smile, and your world goes dark for good."
+  }
+]
