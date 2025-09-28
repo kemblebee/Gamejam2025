@@ -4,9 +4,12 @@ extends Node
 func _on_timer_timeout() -> void:
 	$ProgressBar.value -= 1
 	
+	if $ProgressBar.value == 1:
+		$Timer.one_shot = true
 	#Do something when the progress bar hits 0
-	if $ProgressBar.value == 0:
-		pass
+	elif $ProgressBar.value == 0:
+		print("SCENE OVER!")
+		
 
 
 func _on_typing_checker_word_correct() -> void:

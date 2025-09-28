@@ -1,6 +1,7 @@
 extends Control
 
 signal word_correct
+var resource = load('res://dialogue/text.dialogue')
 
 func _on_line_edit_text_changed(new_text: String) -> void:
 	#new_text is the FULL STRING DO NOT GET THIS INCORRECT!
@@ -13,6 +14,14 @@ func _on_line_edit_text_changed(new_text: String) -> void:
 	if disp_low == new_low:
 		word_correct.emit()
 		print("WOO")
+		
+		DialogueManager.show_dialogue_balloon(resource, disp_low)
+		
+		$DisplayLabel.text = ""
+		$WriteText.text = "temp"
+		
+		visible = not visible
+		
 		
 	#If full word isn't correct, check if current length is correct
 	else:
