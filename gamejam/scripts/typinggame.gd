@@ -1,27 +1,31 @@
 extends Control
 
 signal word_correct
-var resource = load('res://dialogue/text.dialogue')
 
+var resource = load('res://dialogue/text.dialogue')
+var cur_scene = State.scene_num
+
+#Loads in new word
+func instantiate_new(new_text: String) -> void:
+	
+	$DisplayLabel.text = new_text
+	$WriteText.text = ""
+	
+	visible = true
+
+#Checks for correctness
 func _on_line_edit_text_changed(new_text: String) -> void:
 	#new_text is the FULL STRING DO NOT GET THIS INCORRECT!
-	
 	#Labelling these here cause I reuse these a lot
 	var disp_low = $DisplayLabel.text.to_lower()
 	var new_low = new_text.to_lower()
 	
 	#If everything is correct: emit word_correct and print WOO
 	if disp_low == new_low:
+		#!!! Replace here for dialogue checker!!
+		disp_low.replace(" ", "_")
 		word_correct.emit()
-		print("WOO")
-		
-		DialogueManager.show_dialogue_balloon(resource, disp_low)
-		
-		$DisplayLabel.text = ""
-		$WriteText.text = "temp"
-		
-		visible = not visible
-		
+		#print("WOO")
 		
 	#If full word isn't correct, check if current length is correct
 	else:

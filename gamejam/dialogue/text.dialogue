@@ -10,6 +10,17 @@ Nathan: Here are some choices.
 Nathan: For more information see the online documentation.
 => END
 
+~ roses
+Babygirl: Oh yes, they're beautiful this time of year, aren't they? I always loved the pink and white ones especially.
+=> END 
+
+~ jane_austen
+Oh, are you a fan of her too? I just started reading Pride and Prejudice, it's such a good book!
+=> END
+
+
+
+# TEST DIALOGUE
 ~ bibidiboppity
 Narrator: Wow you rock at this game
 => END
