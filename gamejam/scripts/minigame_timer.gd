@@ -4,6 +4,9 @@ var last_check_num = 0
 
 signal aff_max
 
+func _on_ready():
+	print("YO THIS RUNNING!!!")
+
 #Lowers the percentage on the bar by 1 each second that passes.
 func _on_timer_timeout() -> void:
 	$ProgressBar.value -= 1

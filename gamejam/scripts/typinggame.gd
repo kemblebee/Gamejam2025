@@ -2,8 +2,8 @@ extends Control
 
 signal word_correct
 
-var resource = load('res://dialogue/text.dialogue')
 var cur_scene = State.scene_num
+
 
 #Loads in new word
 func instantiate_new(new_text: String) -> void:

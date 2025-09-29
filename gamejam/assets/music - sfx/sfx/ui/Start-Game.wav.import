@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dlcwl3rn20jum"
+path="res://.godot/imported/Start-Game.wav-93f8ace176ee9f2ee690d04717e6310b.sample"
+
+[deps]
+
+source_file="res://assets/music - sfx/sfx/ui/Start-Game.wav"
+dest_files=["res://.godot/imported/Start-Game.wav-93f8ace176ee9f2ee690d04717e6310b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

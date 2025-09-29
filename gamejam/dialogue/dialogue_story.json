@@ -3,91 +3,106 @@
     "scene": 0,
     "talk_id": 0,
     "talk_person": "Narrator",
-    "dialogue": "You’re not sure what to call yourself honestly."
+    "dialogue": "You’re not sure what to call yourself honestly.",
+    "image": "-1"
   },
   {
     "scene": 0,
     "talk_id": 1,
     "talk_person": "Narrator",
-    "dialogue": "A time traveler, an immortal being, a soul stuck in the cycle of Samsara that remembers every single lifetime–you’ve stopped trying to classify yourself after a while. "
+    "dialogue": "A time traveler, an immortal being, a soul stuck in the cycle of Samsara that remembers every single lifetime–you’ve stopped trying to classify yourself after a while. ",
+    "image": "-1"
   },
   {
     "scene": 0,
     "talk_id": 2,
     "talk_person": "Narrator",
-    "dialogue": "But what you do know is Moira, the woman you fell in love with all those lifetimes ago."
+    "dialogue": "But what you do know is Moira, the woman you fell in love with all those lifetimes ago.",
+    "image": "-1"
   },
   {
     "scene": 0,
     "talk_id": 3,
     "talk_person": "Narrator",
-    "dialogue": "Her beautiful smile and the bell chime tone of her voice. In a way she’s like you, timeless and transient except…"
+    "dialogue": "Her beautiful smile and the bell chime tone of her voice. In a way she’s like you, timeless and transient except…",
+    "image": "-1"
   },
   {
     "scene": 0,
     "talk_id": 4,
     "talk_person": "Narrator",
-    "dialogue": "She doesn’t remember you."
+    "dialogue": "She doesn’t remember you.",
+    "image": "-1"
   },
   {
     "scene": 0,
     "talk_id": 5,
     "talk_person": "Narrator",
-    "dialogue": "It’s not every lifetime Moira appears, and the lives she doesn’t blur together into a jumbled mess until you hit a pocket of striking clarity."
+    "dialogue": "It’s not every lifetime Moira appears, and the lives she doesn’t blur together into a jumbled mess until you hit a pocket of striking clarity.",
+    "image": "-1"
   },
   {
     "scene": 0,
     "talk_id": 6,
     "talk_person": "Narrator",
-    "dialogue": "You find her in the luncheons and garden parties of the countryside gentry, mingling with the regency elite."
+    "dialogue": "You find her in the luncheons and garden parties of the countryside gentry, mingling with the regency elite.",
+    "image": "princessERtweaknrom"
   },
   {
     "scene": 0,
     "talk_id": 7,
     "talk_person": "Narrator",
-    "dialogue": "She catches your gaze, but like water in your hands she looks away as if you were invisible and you know exactly why."
+    "dialogue": "She catches your gaze, but like water in your hands she looks away as if you were invisible and you know exactly why.",
+    "image": "0"
   },
   {
     "scene": 0,
     "talk_id": 8,
     "talk_person": "Narrator",
-    "dialogue": "Because you are, at least not literally. "
+    "dialogue": "Because you are, at least not literally. ",
+    "image": "0"
   },
   {
     "scene": 0,
     "talk_id": 9,
     "talk_person": "Narrator",
-    "dialogue": "Working as a commoner means being relegated to the background of the lives of the wealthy, socially you have no chance with her. "
+    "dialogue": "Working as a commoner means being relegated to the background of the lives of the wealthy, socially you have no chance with her. ",
+    "image": "0"
   },
   {
     "scene": 0,
     "talk_id": 10,
     "talk_person": "Narrator",
-    "dialogue": "Of course you don’t care too much about the fuss and constraints of Regency society, not when it comes to being with her. "
+    "dialogue": "Of course you don’t care too much about the fuss and constraints of Regency society, not when it comes to being with her. ",
+    "image": "0"
   },
   {
     "scene": 0,
     "talk_id": 11,
     "talk_person": "Narrator",
-    "dialogue": "So when Moira excuses herself to wander the rose garden you follow, determined to introduce yourself (again, like you’ve done countless times before). "
+    "dialogue": "So when Moira excuses herself to wander the rose garden you follow, determined to introduce yourself (again, like you’ve done countless times before). ",
+    "image": "0"
   },
   {
     "scene": 0,
     "talk_id": 12,
     "talk_person": "You",
-    "dialogue": "“Pardon me ma’am.”"
+    "dialogue": "“Pardon me ma’am.”",
+    "image": "0"
   },
   {
     "scene": 0,
     "talk_id": 13,
     "talk_person": "Moira",
-    "dialogue": "“Hm? Can I help you?”"
+    "dialogue": "“Hm? Can I help you?”",
+    "image": "princessERtweakhappy"
   },
   {
     "scene": 0,
     "talk_id": 14,
     "talk_person": "Narrator",
-    "dialogue": "Now’s your chance."
+    "dialogue": "Now’s your chance.",
+    "image": "0"
   },
   {
     "scene": 1,

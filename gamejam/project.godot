@@ -16,7 +16,7 @@ config/icon="res://icon.svg"
 
 [autoload]
 
-State="*res://state.gd"
+State="*res://scripts/state.gd"
 
 [display]
 
